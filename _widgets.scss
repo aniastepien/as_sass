@@ -1,0 +1,25 @@
+button {
+    
+    color: $secondary-color;
+    padding: 10px;
+    font-family: $base-font-family;
+    font-size: base-font-size;
+    border-radius: 10px;
+    
+}
+
+error {
+    
+    color: $error-color;
+    padding: 15px;
+    font-size: 1,5*$base-font-size;
+ 
+}
+
+info {
+    
+    color: $main-color;
+    font-size: $base-font-size;
+    padding: 12px;
+    
+}
